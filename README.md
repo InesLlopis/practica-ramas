@@ -1,1 +1,3 @@
 Proyecto de ramas git para practicar el concepto de ramas en git.
+
+Nota
